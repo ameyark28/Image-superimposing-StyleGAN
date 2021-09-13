@@ -1,2 +1,2 @@
 # Image-superimposing-StyleGAN
-Restyling pic1 with respect to pic2
+Styling pic1 with respect to pic2

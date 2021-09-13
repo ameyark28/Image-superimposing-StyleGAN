@@ -1,1 +1,1 @@
-**Note**: Convert other formate images to JPG or JPEG before working with it.
+**Note**: Convert other format images to JPG or JPEG before working with it.
